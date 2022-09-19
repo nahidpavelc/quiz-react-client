@@ -1,0 +1,86 @@
+.hosting-bg {
+  background-image: url(http://hrsoftbd.com/front_end_assets/images/page-bg1.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0 0;
+  height: 100px;
+}
+.con-txt {
+  color: white;
+  align-items: center;
+  margin: auto;
+}
+.card_info-inner {
+  border-radius: 4px;
+  box-shadow: 0 30px 50px 0rgba (1, 11, 60, 0.1);
+  padding: 45px 70px 45px 40px;
+  position: relative;
+  z-index: 1;
+  font-size: 16px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.cont-card {
+  text-decoration: none;
+  color: black;
+}
+.cont-card-txt {
+  margin-bottom: 6px;
+  font-size: 20px;
+  color: #0e1133;
+  font-family: Hind, sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 0;
+  transition: all 0.3s ease-out 0s;
+}
+/* social-1  */
+.cont-social1{
+  padding-right: 10px;
+  list-style: none;
+}
+.cont-social-txt1{
+  border-radius: 5px;
+  transition: .5s;
+  padding: 12px 15px;
+  background-color: #E9EEF5;
+  color: #285DA1;
+}
+.cont-social-txt1:hover{
+  background-color: #285DA1;
+  color: white;
+}
+/* social-2  */
+.cont-social2{
+  padding-right: 10px;
+  list-style: none;
+}
+.cont-social-txt2{
+  border-radius: 5px;
+  transition: .5s;
+  padding: 12px 12px;
+  background-color: #E5F6FE;
+  color: #03A9F4;
+}
+.cont-social-txt2:hover{
+  background-color: #03A9F4;
+  color: white;
+}
+
+/* Social- 3 */
+.cont-social3{
+  padding-right: 10px;
+  list-style: none;
+}
+.cont-social-txt3{
+  border-radius: 5px;
+  transition: .5s;
+  padding: 12px 14px;
+  background-color: #FBE7EB;
+  color: #D84A7F;
+}
+.cont-social-txt3:hover{
+  background-color: #D8163F;
+  color: white;
+}
